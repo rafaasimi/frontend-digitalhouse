@@ -1,0 +1,174 @@
+@media only screen and (max-width: 767px){
+    body{
+        height: 100%;
+    }
+
+    #verde{
+        position: fixed;
+    }
+
+    
+    #titulo{
+        font-size: 15px;
+    }
+    
+    #navbarSupportedContent{
+        justify-content: unset;
+    }
+    
+    #navbarSupportedContent form{
+        margin-left: 0;
+        width: 100%;
+    }
+    
+    #navbarSupportedContent form input{
+        width: 100%;
+        margin: 0;
+    }
+
+    #navbarSupportedContent form button{
+        display: none;
+    }
+
+    #adicionar{
+        text-decoration: none;
+        color: white;
+        background-color: rgb(42, 151, 42);
+        width: 100%;
+        text-align: center;
+        padding: 1vh 0;
+        border-radius: 8px;
+        margin-bottom: 1vh;
+    }
+
+    #adicionar:hover{
+        background-color: rgb(31, 117, 31);
+    }
+
+    #fundo{
+        margin-top: 0vh;
+        padding: 2vh 0vw;
+    }
+
+    h5{
+        font-size: 15px;
+    }
+
+    .card img{
+        width: 85px;
+        display: block;
+        text-align: center;
+        margin-top: 1vh;
+    }
+
+    #carta{
+        padding: 1vh 3vw;
+    }
+
+    .editar{
+        position: absolute;
+        right: 2vw;
+    }
+
+    .info{
+        font-size: 12px;
+        margin-top: 0.5vh;
+        margin-bottom: 0;
+        margin-left: 5vw;
+    }
+
+    footer{
+        background: rgba(0, 0, 0, 0.5);
+        font-size: 1em;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    body{
+        height: 100%;
+    }
+
+    #verde{
+        position: fixed;
+    }
+
+    
+    #titulo{
+        font-size: 15px;
+    }
+    
+    #navbarSupportedContent{
+        justify-content: unset;
+    }
+    
+    #navbarSupportedContent form{
+        margin-left: 0;
+        width: 100%;
+    }
+    
+    #navbarSupportedContent form input{
+        width: 100%;
+        margin: 0;
+    }
+
+    #navbarSupportedContent form button{
+        display: none;
+    }
+
+    #adicionar{
+        text-decoration: none;
+        color: white;
+        background-color: rgb(42, 151, 42);
+        width: 100%;
+        text-align: center;
+        padding: 1vh 0;
+        border-radius: 8px;
+        margin-bottom: 1vh;
+    }
+
+    #adicionar:hover{
+        background-color: rgb(31, 117, 31);
+    }
+
+    #fundo{
+        position: absolute;
+        overflow: auto;
+        margin-top: 0vh;
+        padding: 2vh 0vw;
+    }
+
+    h5{
+        font-size: 15px;
+    }
+
+    .card img{
+        width: 85px;
+        display: block;
+        text-align: center;
+    }
+
+    #carta{
+        padding: 1vh 3vw;
+    }
+
+    .editar{
+        position: absolute;
+        right: 1vw;
+    }
+
+    .info{
+        font-size: 15px;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 5vw;
+    }
+
+    footer{
+        background: rgba(0, 0, 0, 0.5);
+        font-size: 1em;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
