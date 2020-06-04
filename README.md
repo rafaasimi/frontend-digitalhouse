@@ -19,7 +19,6 @@ Para o desenvolvimento desse projeto foi utilizado as seguintes tecnologias:
 ### Grupo
 - [Alice Campos](https://github.com/a-campos)
 - [Almir Gabriel](https://github.com/AlmirGX)
-- [Arthur Viveiros](https://github.com/tato751)
 - [Bárbara Santos](https://github.com/barreis)
 - [Jonathas Moreira](https://github.com/JonathasLopes)
 - [Rafael Simionato](https://github.com/rafaasimi)
