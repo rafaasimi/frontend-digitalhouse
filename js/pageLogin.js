@@ -34,6 +34,20 @@ function validarCampos() {
 
 }
 
+function validarCampos2(){
+    if (cnpj.value.length == 0 || senha.value.length == 0) {
+
+        alert("Campo CNPJ ou Senha não preenchido.");
+
+    } else if (cnpj.value.length != 18) {
+
+        alert("CNPJ ou Senha inválido.");
+
+    } else {
+        location = 'mercado.html';
+    }
+}
+
 
 // Mostrar/Esconder Senha
 var checkboxPass = document.getElementById('checkboxPass')
