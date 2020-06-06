@@ -1,4 +1,5 @@
 # Natural Foods
+<img src="https://img.shields.io/github/repo-size/rafaasimi/frontend-digitalhouse"> <img src="https://img.shields.io/github/license/rafaasimi/frontend-digitalhouse"> <img src="https://img.shields.io/github/last-commit/rafaasimi/frontend-digitalhouse">
 
 ## 🔖 Descrição
 E-Commerce fictício destinado a agricultores e supermercados para a venda e compra de produtos orgânicos e sem agrotóxicos. 
